@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Safe box opener feature icons">
+  <rect width="1200" height="760" fill="#101214"/>
+  <g fill="#1b2023" stroke="#2d353b" stroke-width="6">
+    <rect x="120" y="130" width="300" height="220" rx="20"/>
+    <rect x="450" y="130" width="300" height="220" rx="20"/>
+    <rect x="780" y="130" width="300" height="220" rx="20"/>
+  </g>
+  <g fill="#b7f228">
+    <path d="M260 250 l35 35 l65 -75" stroke="#b7f228" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="560" y="210" width="80" height="70" rx="8"/>
+    <rect x="860" y="210" width="130" height="20" rx="10"/>
+    <rect x="860" y="245" width="180" height="20" rx="10"/>
+  </g>
+  <g fill="#1b2023" stroke="#2d353b" stroke-width="6">
+    <rect x="210" y="410" width="780" height="200" rx="22"/>
+  </g>
+  <text x="600" y="490" text-anchor="middle" font-family="Segoe UI, Arial" font-size="44" fill="#d7dee3">Safety Lock • Ergonomic Grip • Rechargeable Power</text>
+</svg>

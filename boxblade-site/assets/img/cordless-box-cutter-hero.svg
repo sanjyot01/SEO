@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="BoxBlayde cordless box cutter product hero illustration">
+  <defs>
+    <linearGradient id="blade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d7dde2"/>
+      <stop offset="100%" stop-color="#95a1aa"/>
+    </linearGradient>
+    <linearGradient id="handle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f363b"/>
+      <stop offset="100%" stop-color="#1b1f22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="#0f1112"/>
+  <circle cx="1040" cy="130" r="90" fill="#b7f228" opacity="0.2"/>
+  <circle cx="180" cy="640" r="130" fill="#b7f228" opacity="0.16"/>
+  <rect x="180" y="140" width="840" height="480" rx="24" fill="#171a1c" stroke="#2d3439" stroke-width="8"/>
+  <g transform="translate(280 250)">
+    <rect x="0" y="60" width="520" height="120" rx="20" fill="url(#handle)"/>
+    <rect x="500" y="96" width="220" height="48" rx="8" fill="url(#blade)"/>
+    <rect x="66" y="88" width="100" height="64" rx="10" fill="#b7f228"/>
+    <circle cx="250" cy="120" r="20" fill="#2a3136" stroke="#495157" stroke-width="5"/>
+  </g>
+  <text x="600" y="670" text-anchor="middle" font-family="Segoe UI, Arial" font-size="44" fill="#d7dee3">BoxBlayde Cordless Box Cutter</text>
+</svg>
